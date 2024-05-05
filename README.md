@@ -1,37 +1,35 @@
-**AtliQ Hardware Finance and Supply Chain Analytics**
+AtliQ-Hardwares-Finance-and-Supply-Chain-Analytics
 
-**Project Overview**
+Project Overview
 
-This project aims to extract valuable insights from a provided database containing sales, product, customer, and regional information for Atliq Hardware. By addressing specific questions related to sales reports, market analysis, customer behavior, and supply chain forecasting, the project seeks to optimize decision-making and operational efficiency.
+This project leverages a MySQL database containing Atliq Hardware's sales, product, customer, and regional data to generate valuable insights. By addressing specific questions on sales reports, market analysis, customer behavior, and supply chain forecasting, the project aims to optimize decision-making and operational efficiency for Atliq Hardware.
 
-**About AtliQ Hardwares and Problem Statement**
+Project Structure
+The project is organized as follows:
 
-AtliQ Hardware is a prominent hardware company specializing in PCs, printers, mice, and computers with a global presence. The company faces performance issues due to the growing size of Excel files, leading to inefficiencies and unresponsiveness. To address this, AtliQ Hardware has initiated a project, assembling a team of data analysts to utilize MySQL as their database management system. Their goal is to extract meaningful insights to enhance decision-making and optimize operations, ultimately improving overall performance.
-
-**Project Structure**
-
-**SQL Queries used for data extraction and analysis.**
-
-**Questions to Answer:**
-Addresses specific inquiries, including generating sales reports, calculating gross sales, identifying top markets, products, and customers, and performing supply chain forecasting.
-
-**Skills Learnt:** 
-crafting User-Defined Functions, 
-working with Database Views and Stored Procedures, 
-employing Window Functions, 
-managing Temporary Tables, 
-understanding Indexes and Database Creation/Update, 
-ensuring Data Integrity, and handling various data types.
+SQL Queries: Contains the SQL queries used to extract and analyze the data.
+Questions to Answer: The project addresses the following questions:
+Generate a Croma India product-wise sales report for fiscal year 2021.
+Calculate the gross monthly total sales report for Croma India.
+Generate a yearly report for Croma India, with columns for fiscal year and the total gross sales amount in that year.
+Determine the top market, product, and customers for a given fiscal year.
+Calculate the net sales percentage share globally and by region, specifically in the APAC region.
+Retrieve the top 2 markets in every region by their gross sales monthly for fiscal year 2021.
+Perform supply chain forecasting for quantity. (More details required for this question
 
 
-**Project Highlights**
+Skills Developed: 
+User-Defined Functions, Database Views & Stored Procedures, Window Functions, Temporary Tables, Indexing, Database Creation/Update, Data Integrity, and data type handling.
 
-Throughout the project, significant insights were uncovered:
+Key Findings
 
-- Amazon recorded the highest net sales of 109.03M in fiscal year 2021, followed by AtliQ Exclusive with 79.92M.
-- The Indian market generated the highest net sales of 210.67M in fiscal year 2021, followed by the USA with 132.05M.
-- Amazon contributed 13.23% of total net sales among all customers in fiscal year 2021.
-- In the APAC region, Amazon accounted for the highest net sales percentage of 12.99% among other customers in 2021.
-- In the APAC region, India ranked first in terms of total gross sales.
-
-
+Top Customers (FY 2021):
+Amazon: 109.03M net sales
+AtliQ Exclusive: 79.92M net sales
+Top Markets (FY 2021):
+India: 210.67M net sales
+USA: 132.05M net sales
+Customer Contribution (FY 2021):
+Amazon: 13.23% total net sales
+Highest contribution in APAC region (12.99%)
+Top Gross Sales Region (FY 2021): APAC (India)
