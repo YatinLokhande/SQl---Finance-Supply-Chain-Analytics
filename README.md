@@ -1,4 +1,4 @@
-**Atliq Hardware Finance and Supply Chain Analytics**
+**AtliQ Hardware Finance and Supply Chain Analytics**
 
 **Project Overview**
 
