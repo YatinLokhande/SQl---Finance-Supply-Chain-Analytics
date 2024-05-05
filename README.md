@@ -15,9 +15,14 @@ AtliQ Hardware is a prominent hardware company specializing in PCs, printers, mi
 **Questions to Answer:**
 Addresses specific inquiries, including generating sales reports, calculating gross sales, identifying top markets, products, and customers, and performing supply chain forecasting.
 
-**Skills Learnt:** Summarizes the skills developed throughout the project, including crafting User-Defined Functions, working with Database Views and Stored Procedures, employing Window Functions, managing Temporary Tables, understanding Indexes and Database Creation/Update, ensuring Data Integrity, and handling various data types.
+**Skills Learnt:** 
+crafting User-Defined Functions, 
+working with Database Views and Stored Procedures, 
+employing Window Functions, 
+managing Temporary Tables, 
+understanding Indexes and Database Creation/Update, 
+ensuring Data Integrity, and handling various data types.
 
-**Key Learnings:** Highlights the significance of User-Defined Functions, Database Views, Stored Procedures, Window Functions, Temporary Tables, Indexing, and Data Integrity & Entity-Relationship Diagrams.
 
 **Project Highlights**
 
