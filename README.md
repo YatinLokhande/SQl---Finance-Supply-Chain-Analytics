@@ -1,6 +1,3 @@
-![image](https://github.com/YatinLokhande/SQl---Finance-Supply-Chain-Analytics/assets/159231905/f0ebed81-36bd-496c-9817-d529789541ca)# SQL - Finance & Supply Chain Analytics
-
-
 ## AtliQ Hardwares Finance & Supply Chain Analytics SQL Project
 
 Welcome to the AtliQ Hardwares Finance & Supply Chain Analytics Project repository. This repository contains the code and SQL queries utilized for the Finance & Supply Chain Domain section of the Data Analytics Bootcamp at Codebasics.
