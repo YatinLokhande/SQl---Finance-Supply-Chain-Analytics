@@ -1,5 +1,3 @@
-# SQl - Finance-Supply-Chain-Analytics
-
 **Atliq Hardware Finance and Supply Chain Analytics**
 
 **Project Overview**
@@ -11,8 +9,6 @@ This project aims to extract valuable insights from a provided database containi
 AtliQ Hardware is a prominent hardware company specializing in PCs, printers, mice, and computers with a global presence. The company faces performance issues due to the growing size of Excel files, leading to inefficiencies and unresponsiveness. To address this, AtliQ Hardware has initiated a project, assembling a team of data analysts to utilize MySQL as their database management system. Their goal is to extract meaningful insights to enhance decision-making and optimize operations, ultimately improving overall performance.
 
 **Project Structure**
-
-The project is structured as follows:
 
 - **SQL Queries:** Contains SQL queries used for data extraction and analysis.
 - **Questions to Answer:** Addresses specific inquiries, including generating sales reports, calculating gross sales, identifying top markets, products, and customers, and performing supply chain forecasting.
