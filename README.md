@@ -1,22 +1,25 @@
-**Atliq Hardware Finance and Supply Chain Analytics**
+###**Atliq Hardware Finance and Supply Chain Analytics**
 
-**Project Overview**
+###**Project Overview**
 
 This project aims to extract valuable insights from a provided database containing sales, product, customer, and regional information for Atliq Hardware. By addressing specific questions related to sales reports, market analysis, customer behavior, and supply chain forecasting, the project seeks to optimize decision-making and operational efficiency.
 
-**About AtliQ Hardwares and Problem Statement**
+###**About AtliQ Hardwares and Problem Statement**
 
 AtliQ Hardware is a prominent hardware company specializing in PCs, printers, mice, and computers with a global presence. The company faces performance issues due to the growing size of Excel files, leading to inefficiencies and unresponsiveness. To address this, AtliQ Hardware has initiated a project, assembling a team of data analysts to utilize MySQL as their database management system. Their goal is to extract meaningful insights to enhance decision-making and optimize operations, ultimately improving overall performance.
 
-**Project Structure**
+###**Project Structure**
 
-- **SQL Queries:** Contains SQL queries used for data extraction and analysis.
-- **Questions to Answer:** Addresses specific inquiries, including generating sales reports, calculating gross sales, identifying top markets, products, and customers, and performing supply chain forecasting.
-- **Skills Learnt:** Summarizes the skills developed throughout the project, including crafting User-Defined Functions, working with Database Views and Stored Procedures, employing Window Functions, managing Temporary Tables, understanding Indexes and Database Creation/Update, ensuring Data Integrity, and handling various data types.
-- **Key Learnings:** Highlights the significance of User-Defined Functions, Database Views, Stored Procedures, Window Functions, Temporary Tables, Indexing, and Data Integrity & Entity-Relationship Diagrams.
-- **Project Highlights:** Showcases key findings such as top net sales contributors, market insights, and regional sales analysis.
+###**SQL Queries used for data extraction and analysis.**
 
-**Project Highlights**
+###**Questions to Answer:**
+Addresses specific inquiries, including generating sales reports, calculating gross sales, identifying top markets, products, and customers, and performing supply chain forecasting.
+
+###**Skills Learnt:** Summarizes the skills developed throughout the project, including crafting User-Defined Functions, working with Database Views and Stored Procedures, employing Window Functions, managing Temporary Tables, understanding Indexes and Database Creation/Update, ensuring Data Integrity, and handling various data types.
+
+###**Key Learnings:** Highlights the significance of User-Defined Functions, Database Views, Stored Procedures, Window Functions, Temporary Tables, Indexing, and Data Integrity & Entity-Relationship Diagrams.
+
+###**Project Highlights**
 
 Throughout the project, significant insights were uncovered:
 
@@ -26,4 +29,4 @@ Throughout the project, significant insights were uncovered:
 - In the APAC region, Amazon accounted for the highest net sales percentage of 12.99% among other customers in 2021.
 - In the APAC region, India ranked first in terms of total gross sales.
 
-The project has been a valuable learning experience, and I look forward to applying these skills in future endeavors.
+
