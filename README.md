@@ -43,8 +43,6 @@ The expanding size of Excel files has led to performance problems, resulting in 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatinlokhande/)
 
 ![3fc9a5ef81c0330f0c2b66ae69451f3e-3](https://github.com/YatinLokhande/SQl---Finance-Supply-Chain-Analytics/assets/159231905/bfb7410a-5923-4733-85cf-4a40b25e1ce6)
@@ -92,6 +90,7 @@ The expanding size of Excel files has led to performance problems, resulting in 
 ![3fc9a5ef81c0330f0c2b66ae69451f3e-23](https://github.com/YatinLokhande/SQl---Finance-Supply-Chain-Analytics/assets/159231905/be4d4f12-55ac-49ee-a06d-128ebd1d0b74)
 
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
 
 
 
